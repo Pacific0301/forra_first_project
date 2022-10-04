@@ -1,0 +1,45 @@
+.conteiner {
+   margin: 0 auto; 
+    width: 1160px;
+}
+
+.header_conteiner {
+    height: 50px;
+    display: flex;
+    margin-bottom: 90px;
+}
+.header_img {
+    margin-right: 155px;
+}
+.header_list {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin-right: 166px;
+}
+.list_iteam {
+    margin-right: 66px;
+}
+.list_iteam:last-child {
+    margin-right: 0px;
+}
+.head_link {
+    margin-top: 16px;
+    color: red;
+}
+.main_title {
+    width: 600px;
+}
+.main_text { 
+    width: 541px;
+    color: #545454;
+    margin-bottom: 46px;
+}
+.Main_button {
+    background-color: red;
+    height: 47px;
+    width: 358px;
+    border-radius: 7px;
+    color: white;
+    border-color: red;
+}
